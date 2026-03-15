@@ -60,6 +60,6 @@ Este projeto demonstra alguns conceitos fundamentais de programação em Python:
 
 ## Objetivo Educacional
 
-Este projeto foi desenvolvido como parte de uma tarefa prática para vaga de tutor de Python.  
+Este projeto foi desenvolvido como parte de uma tarefa prática em Python.  
 
 A ideia é demonstrar conceitos básicos de programação através de um projeto simples e interativo.
