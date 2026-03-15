@@ -41,9 +41,6 @@ Tkinter foi utilizado para construir a interface gráfica do jogo e Random para 
 
 O jogo será aberto em uma janela gráfica.
 
----
-
-## Estrutura do Projeto
 
 ---
 
